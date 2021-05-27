@@ -144,9 +144,17 @@ body {
     color: #000;
 }
 
-.block-footer {
+.block-footer p{
     clear: both;
     text-align: center;
     font-size: 15px;
     margin: 50px 0 20px;
+}
+
+/* 
+ * スマホ用のスタイルシート
+ */
+
+@media screen and (max-width: 767px) {
+    
 }
